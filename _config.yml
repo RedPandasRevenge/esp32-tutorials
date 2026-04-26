@@ -4,7 +4,7 @@ title: "Tutorial ESP32 & M5Stack"
 description: "Guide pratiche per studenti su M5Stack, M5Stamp, Arduino e ESP32"
 author: "RedPandasRevenge"
 
-theme: minima
+theme: architect
 
 # Impostazioni Markdown
 markdown: kramdown
