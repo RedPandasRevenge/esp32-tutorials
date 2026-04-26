@@ -1,0 +1,17 @@
+# _config.yml — Configurazione Jekyll per GitHub Pages
+
+title: "Tutorial ESP32 & M5Stack"
+description: "Guide pratiche per studenti su M5Stack, M5Stamp, Arduino e ESP32"
+author: "RedPandasRevenge"
+
+theme: minima
+
+# Impostazioni Markdown
+markdown: kramdown
+highlighter: rouge   # evidenziazione sintassi del codice
+
+# Esclusione file non necessari
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
