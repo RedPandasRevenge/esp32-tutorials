@@ -1,27 +1,12 @@
 ---
-layout: tutorial
-title: "Misuratore di Distanza con Calibrazione su M5StampS3A"
-description: "Realizza un metro digitale con HC-SR04, LCD 16x2, pulsante di calibrazione zero e LED proporzionale alla vicinanza (sensore di parcheggio)."
-date: 2026-04-26
-author: ""
-categories:
-  - tutorial
-  - esp32
-  - sensori
-tags:
-  - M5StampS3A
-  - ESP32-S3
-  - Arduino
-  - HC-SR04
-  - LCD
-  - ultrasuoni
-  - misura-distanza
-difficulty: 3
-time_estimate: "75–105 minuti"
+layout: default
+title: "Misuratore di distanza"
+description: ""
 device: "M5StampS3A"
-license: CC BY-SA 4.0
+duration: "75-105 min"
+difficulty: "⭐⭐⭐☆☆ (3/5)"
+order: 1
 ---
-
 # Misuratore di Distanza con Calibrazione su M5StampS3A
 
 > Realizza un metro digitale con HC-SR04, LCD 16x2, pulsante di azzeramento relativo e LED con lampeggio proporzionale alla vicinanza.
