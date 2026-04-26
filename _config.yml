@@ -12,6 +12,12 @@ plugins:
 markdown: kramdown
 highlighter: rouge   # evidenziazione sintassi del codice
 
+collections:
+  tutorial:
+    output: true
+    permalink: /tutorial/:name
+
+
 # Esclusione file non necessari
 exclude:
   - Gemfile
