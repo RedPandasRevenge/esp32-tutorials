@@ -17,6 +17,12 @@ collections:
     output: true
     permalink: /tutorial/:name
 
+defaults:
+  - scope:
+      path: ""
+      type: tutorial
+    values:
+      layout: default
 
 # Esclusione file non necessari
 exclude:
